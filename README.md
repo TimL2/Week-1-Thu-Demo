@@ -2,7 +2,9 @@
 * I would like to get into Smart Contract coding, but am also very interested in trading bots.
 * I've always been interested in coding but finally found some time to be able to pursue it due to a job change.
 
-> This really pops!
+> <span style="color:yellow"> This color really pops!</span>
+
+This is one of my APA NFTs on AVAX **Not financial advice*
 
 ![image](apa1.png)
 
